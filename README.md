@@ -1,2 +1,2 @@
 # humanpose_dataset
-dataset from fmcw radar sensor
+dataset based FMCW radar sensor
